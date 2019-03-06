@@ -2,7 +2,7 @@
 
 The aim of this project is to prepare the corpora of data for newral network training. We've got pairs of `(audio, transcript)` from https://echo.msk.ru/
 
-***
+
 
 ## Description
 
